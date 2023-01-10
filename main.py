@@ -1,3 +1,5 @@
+print("Hare Krishna !")
+
 cars = [ 
         'safari', 
         'creta',
